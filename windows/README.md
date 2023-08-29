@@ -1,2 +1,2 @@
-![](imagens/windows.jpg)
+![](imagens/windows-nt.jpg)
 # Drivers para Sistema Operacional Windows
